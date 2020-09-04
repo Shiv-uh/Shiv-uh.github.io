@@ -1,0 +1,40 @@
+body {
+background-color: #02052a ;
+color: gray;
+font-family: serif;
+}
+
+h1 {
+    background: #303030;
+    text-align: center;
+}
+
+h2 {
+    background: #303030;
+    text-align: center;
+}
+
+p {
+    text-decoration-color: white;
+}
+
+a {
+    color: white;
+    text-decoration-color: white;
+}
+
+em {
+    color: white;
+    font-style: normal;
+}
+
+hr {
+    border: 1px solid white;
+}
+
+img {
+    background-color: white;
+    margin: auto;
+    padding: 10px;
+    display: block;
+}
